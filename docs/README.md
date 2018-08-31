@@ -2,7 +2,7 @@
 home: true
 heroImage: /home.jpg
 actionText: 开始 →
-actionLink: /repository/
+actionLink: /site/
 
 footer: MIT Licensed | Copyright © 2018-Aaronwn
 ---

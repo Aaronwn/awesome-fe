@@ -24,20 +24,20 @@ module.exports = {
         link: "/site/"
       },
       {
-        text: "Vue",
-        link: "/vue/"
-      },
-      {
-        text: "React",
-        link: "/react/"
-      },
-      {
         text: "文章",
         link: "/article/"
       },
       {
         text: "面试",
         link: "/interview/"
+      },
+      {
+        text: "Vue",
+        link: "/vue/"
+      },
+      {
+        text: "React",
+        link: "/react/"
       },
       {
         text: "Blog",
