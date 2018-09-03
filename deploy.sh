@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f "https://${access_token}@github.com/Aaronwn/awesome-fe.git" master:gh-pages
+git push -f "https://github.com/Aaronwn/awesome-fe.git" master:gh-pages
 
 cd -
